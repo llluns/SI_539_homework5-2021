@@ -180,6 +180,8 @@ header{
   padding: 30px;
   vertical-align: middle;
   text-align:center;
+  align-self: center;
+
   /*Your code here:*/
 }
 
